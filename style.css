@@ -120,8 +120,3 @@ h1 {
   }
 }
 
-@media only screen and (min-device-width: 400px) {
-  body {
-    background-image: url('Leo.jpg');
-  }
-}
