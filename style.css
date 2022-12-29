@@ -8,7 +8,11 @@
 }
 
 body {
-  background: #224941 url('leo.jpg') no-repeat center center/cover;
+  background: #224941 url('leo.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   color: #fff;
   font-family: 'Montserrat', sans-serif;
   min-height: 100vh;
